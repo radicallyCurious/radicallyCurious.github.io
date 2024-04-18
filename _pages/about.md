@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# A Life of Service
---
+## A Life of Service
+--------------------
 In 2017, Luc became a New York State EMT working in New York City. He quickly moved on to being a field training officer (FTO) with his first Emergency Medical Services (EMS) agency. In 2018, Luc enlisted in the New York Army National Guard as a combat medic. He spent a year away from home training to become the best lifesaver he could become, graduating at the top of his class. 
 
 Upon return home, Luc became an EMT instructor and worked in the NYC EMS 911 system responding to calls for service for EMS and serving patient populations in Lower Manhattan, the South Bronx, Downtown Brooklyn, East New York, Harlem, and Washington Heights. 

@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /teaching
 title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /teaching.html
 ---
 
 # A Life of Service
