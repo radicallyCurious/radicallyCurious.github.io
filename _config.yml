@@ -12,7 +12,7 @@ title                    : "Luc Pitre"
 title_separator          : "-"
 name                     : &name "Luc Pitre"
 description              : &description "description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pitre.ninja # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,9 +25,9 @@ author:
   name             : "Luc Pitre"
   pronouns         : # example: "she/her"  
   bio              : "scientist, humanist, selfless service"
-  location         : "Queens, NY"
+  location         : "Brooklyn, NY"
   employer         : "CUNY"
-  uri              : # URL
+  uri              : # URI
   email            : "secrets_cliquey_06@icloud.com"
 
   # Academic websites
